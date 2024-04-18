@@ -7,8 +7,6 @@ yarn-error.log
 node_modules/
 dist/
 *.tsbuildinfo
-*.js
-*.js.map
 .parcel-cache
 db.json
 .env
